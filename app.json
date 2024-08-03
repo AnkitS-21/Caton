@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Caton",
-    "slug": "Caton",
+    "slug": "caton",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -31,6 +31,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "fc9ea4b5-4020-4c6f-83d7-efe48026128e"
+      }
+    },
+    "owner": "unitedminds"
   }
 }
