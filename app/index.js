@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>Edit app/index.js to edit this screen.</Text>
+      <Text>Edit app/index.js to edit this screen. Ojash</Text>
     </View>
   );
 }
